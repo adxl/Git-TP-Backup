@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #f1f1f1;
+}
+.nfassory {
+    background-color: red;
+}
+
+.maxime {
+    position: absolute;
+    background: #fff;
+    padding: 1em;
+    border-radius: 5px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .2);
+}
+
+.adel-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.circles {
+    display: flex;
+    justify-content: space-around;
+}
+.circle {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: #1985af;
+    margin: 0 2em;
+}
+.titleH1 {
+  color: blue;
+  display: flex;
+  justify-content: center;
+  font-size: 5em;
+}
+
+.titleTeam {
+  color: blue;
+  display: flex;
+  justify-content: center;
+  font-size: 5em;
+}
