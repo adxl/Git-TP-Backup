@@ -1,0 +1,16 @@
+.adel-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.circles {
+    display: flex;
+    justify-content: space-around;
+}
+.circle {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: #1985af;
+    margin: 0 2em;
+}
