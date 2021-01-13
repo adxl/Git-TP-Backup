@@ -1,0 +1,13 @@
+.titleH1 {
+  color: blue;
+  display: flex;
+  justify-content: center;
+  font-size: 15em;
+}
+
+.titleTeam {
+  color: blue;
+  display: flex;
+  justify-content: center;
+  font-size: 15em;
+}
